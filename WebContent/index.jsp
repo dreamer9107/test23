@@ -17,5 +17,10 @@
 		<li>MyBatis</li>
 		<li>Hibernate</li>
 	</ul>
+	<ul>
+		<li>스프링MVC</li>
+		<li>MyBatis.xml</li>
+		<li>pom.xml</li>
+	</ul>
 </body>
 </html>
